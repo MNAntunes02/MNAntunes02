@@ -1,8 +1,8 @@
-## Hello World!👋
+### Hello World!👋
 
 <div align="center">
   
-<img src="https://i.gifer.com/origin/78/787899e9d4e4491f797aba5c61294dfc.gif" heigth="280" width="280"/>
+<img src="https://i.gifer.com/origin/78/787899e9d4e4491f797aba5c61294dfc.gif" heigth="200" width="200"/>
   
   
 ### Dev in development
