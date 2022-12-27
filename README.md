@@ -7,7 +7,7 @@
 <br/>
 
 <h1>
-  :man_technologist: <br/> Front end Dev in progress
+  :man_technologist: <br/> Web Developer
 </h1>
 
 <div align="center">
