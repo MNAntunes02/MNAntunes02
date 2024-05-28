@@ -2,7 +2,7 @@
 <h2 align="left">Portfólio https://alisson-antunes.web.app</h2>
 
 <div id="dino" align="center">
-    <img height="200" src="https://camo.githubusercontent.com/2263b33ee974fbb3bdc2b8ed4d8b484cd71869f5f1091903ca09e26db9166ff3/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f37382f37383738393965396434653434393166373937616261356336313239346466632e676966"  />
+    <img height="200" src="https://i.giphy.com/YTzh3zw4mj1XpjjiIb.webp"  />
 </div>
 
 <br/>
